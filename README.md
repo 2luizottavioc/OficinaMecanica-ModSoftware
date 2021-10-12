@@ -103,7 +103,7 @@
   <h1 align="left"> Contribuição </h1>
   <br>
   <p>
-    Leia o arquivo <a href="">CONTRIBUTING.md</a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações para nós.
+    Leia o arquivo <a href="https://github.com/luizottavioc/OficinaMecanica-ModSoftware/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações para nós.
   </p>
 </div>
 
@@ -156,7 +156,7 @@
   <h1 align="left"> Licença </h1>
   <br>
   <p>
-    Este projeto está licenciado sob a Licença MIT,  consulte o arquivo <a href="">LICENSE.md</a> para mais detalhes.
+    Este projeto está licenciado sob a Licença MIT,  consulte o arquivo <a href="https://github.com/luizottavioc/OficinaMecanica-ModSoftware/blob/main/LICENSE">LICENSE</a> para mais detalhes.
   </p>
 </div>
 
