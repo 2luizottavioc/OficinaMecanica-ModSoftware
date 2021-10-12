@@ -4,7 +4,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="sobre">
   <h1 align="left"> Sobre </h1>
@@ -14,7 +13,6 @@
   </p>
 </div>
  
-<br>
 <br>
 
 <div id="sumario">
@@ -49,7 +47,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="reqFunc">
   <h1 align="left"> Requisitos Funcionais </h1>
@@ -83,7 +80,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="tec">
   <h1 align="left"> Tecnologias Usadas </h1>
@@ -102,7 +98,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="contribuicao">
   <h1 align="left"> Contribuição </h1>
@@ -112,7 +107,6 @@
   </p>
 </div>
 
-<br>
 <br>
 
 <div id="autores">
@@ -157,7 +151,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="licenca">
   <h1 align="left"> Licença </h1>
@@ -167,7 +160,6 @@
   </p>
 </div>
 
-<br>
 <br>
 
 <div id="agradec">
