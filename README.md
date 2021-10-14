@@ -118,7 +118,7 @@
        foto1
     </td>
     <td>
-       <img src "https://user-images.githubusercontent.com/82003438/137406351-4be1adca-12b0-40ba-8974-4b9b385775de.jpeg" alt="" width="100px"; height="100px;"/>
+       <img src= "https://user-images.githubusercontent.com/82003438/137406351-4be1adca-12b0-40ba-8974-4b9b385775de.jpeg" alt="" width="100px"; height="100px;"/>
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/89395176/137017217-28459230-3a76-4c93-8a55-6515ab36fd92.jpg" alt="" width="100px;" height="100px;"/>
