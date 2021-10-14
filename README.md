@@ -144,7 +144,7 @@
        <a href="https://github.com/wbalemes" title="Warley Lemes"> Warley Lemes </a>
     </td>
     <td>
-       <a href="" title="Willian de Almeida"> Willian de Almeida </a>
+       <a href="https://github.com/Willian6" title="Willian de Almeida"> Willian de Almeida </a>
     </td>
   </tr>
 </table>
