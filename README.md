@@ -141,7 +141,7 @@
       <a href="https://github.com/luizottavioc" title="Luiz Otávio"> Luiz Otávio Carvalho 🖥️ 🖱️ </a>
     </td>
     <td>
-       <a href="https://github.com/wbalemes" title="Warley Lemes"> Warley Lemes </a>
+       <a href="https://github.com/wbalemes" title="Warley Lemes"> Warley Lemes 👨🏻‍💻 </a>
     </td>
     <td>
        <a href="https://github.com/Willian6" title="Willian de Almeida"> Willian de Almeida </a>
