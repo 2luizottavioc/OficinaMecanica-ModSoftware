@@ -127,7 +127,7 @@
        <img src="https://avatars.githubusercontent.com/u/90565691?v=4.jpeg" alt="" width="100px;" height="100px;"/>
     </td>
     <td>
-       foto5
+       <img src="https://avatars.githubusercontent.com/u/88801867?v=4.jpeg" alt="" width="100px;" height="100px;"/>
     </td>
   </tr>
   <tr align="center">
