@@ -115,7 +115,7 @@
   <table>
   <tr align="center">
     <td>
-       foto1
+       <img src="https://user-images.githubusercontent.com/89395176/143944317-c60a4ad0-8b1c-45e3-b336-16d15bd07377.png" alt="" height="100px;"/>
     </td>
     <td>
        <img src= "https://user-images.githubusercontent.com/82003438/137406656-d60ae8ee-9606-4e65-90e9-d3e0f0175f0e.jpeg" alt="" height="100px;"/>
@@ -132,7 +132,7 @@
   </tr>
   <tr align="center">
     <td>
-       <a href="" title="Alessandro"> Alessandro </a>
+       <a href="https://github.com/damasior/damasior" title="Alessandro"> Alessandro </a>
     </td>
     <td>
        <a href="https://github.com/d0ugsss" title="Douglas Oliveira"> Douglas Oliveira </a>
@@ -166,7 +166,7 @@
   <h1 align="left"> Agradecimentos </h1>
   <br>
   <p>
-    Agradecimentos.
+    Agradecemos a todos os professores que fizeram ser possível a elaboração desse projeto e o compartilhamento de diversos conhecimentos e experiências.
   </p>
 </div>
 
